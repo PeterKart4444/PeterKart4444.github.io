@@ -1666,7 +1666,7 @@ export class Battle {
 
 		// the turn limit is not a part of Endless Battle Clause
 		if (this.turn >= 20000) {
-			this.add('message', `It is turn 20000. You have hit the turn limit!`);
+			this.add('message', `It is turn 20000. You have hit the turn limit! Get a life lol :|`);
 			this.tie();
 			return true;
 		}

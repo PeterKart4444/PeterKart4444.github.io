@@ -22433,6 +22433,25 @@ const Moves = {
     target: "normal",
     type: "Electric",
     contestType: "Cool"
+  },
+  maxastral: {
+    num: 1e5,
+    accuracy: true,
+    basePower: 10,
+    category: "Physical",
+    isNonstandard: "Past",
+    name: "Max Astral",
+    pp: 10,
+    priority: 0,
+    flags: {},
+    isMax: true,
+    self: {
+      sideCondition: "waterpledge",
+      duration: 10
+    },
+    target: "adjacentFoe",
+    type: "Stellar",
+    contestType: "Cool"
   }
 };
 //# sourceMappingURL=moves.js.map

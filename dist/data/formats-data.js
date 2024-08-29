@@ -6063,6 +6063,10 @@ const FormatsData = {
   pokestarufopropu2: {
     isNonstandard: "Custom",
     tier: "Illegal"
+  },
+  redpuffle: {
+    isNonstandard: "Custom",
+    tier: "Puffle"
   }
 };
 //# sourceMappingURL=formats-data.js.map

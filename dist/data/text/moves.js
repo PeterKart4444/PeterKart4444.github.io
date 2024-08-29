@@ -3751,6 +3751,11 @@ const MovesText = {
     desc: "Power is equal to the base move's Max Move power. If this move is successful, the Speed of each Pokemon on the user's side is raised by 1 stage, even if they have a substitute. This effect does not happen if the user is not Dynamaxed. If this move is used as a base move, it deals damage with a power of 0.",
     shortDesc: "Base move affects power. Allies: +1 Speed."
   },
+  maxastral: {
+    name: "Max Astral",
+    desc: "Power is equal to the base move's Max Move power. If this move is successful, a rainbow appears on the user's side for 4 turns, which doubles secondary effect chances and stacks with the Serene Grace Ability, except effects that cause flinching can only have their chance doubled once. This effect does not happen if the user is not Dynamaxed. If this move is used as a base move, it deals damage with a power of 0.",
+    shortDesc: "Base move affects power. Creates a Rainbow."
+  },
   maxdarkness: {
     name: "Max Darkness",
     desc: "Power is equal to the base move's Max Move power. If this move is successful, the Special Defense of each Pokemon on the opposing side is lowered by 1 stage, even if they have a substitute. This effect does not happen if the user is not Dynamaxed. If this move is used as a base move, it deals damage with a power of 0.",

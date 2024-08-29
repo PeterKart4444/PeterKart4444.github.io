@@ -26,6 +26,7 @@ export class BattleActions {
 		Steel: 'Max Steelspike',
 		Normal: 'Max Strike',
 		Dragon: 'Max Wyrmwind',
+		Stellar: 'Max Astral',
 	};
 
 	readonly Z_MOVES: {readonly [k: string]: string} = {

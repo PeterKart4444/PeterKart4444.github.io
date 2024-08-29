@@ -22058,4 +22058,22 @@ export const Moves: {[moveid: string]: MoveData} = {
 		type: "Electric",
 		contestType: "Cool",
 	},
+	maxastral: {
+		num: 100000,
+		accuracy: true,
+		basePower: 10,
+		category: "Physical",
+		isNonstandard: "Past",
+		name: "Max Astral",
+		pp: 10,
+		priority: 0,
+		flags: {},
+		isMax: true,
+		self: {
+            sideCondition: 'waterpledge',
+        },
+		target: "adjacentFoe",
+		type: "Stellar",
+		contestType: "Cool",
+	},
 };

@@ -1413,7 +1413,7 @@ class Battle {
     if (this.turn <= 2e4)
       return;
     if (this.turn >= 2e4) {
-      this.add("message", `It is turn 20000. You have hit the turn limit!`);
+      this.add("message", `It is turn 20000. You have hit the turn limit! Get a life lol :|`);
       this.tie();
       return true;
     }

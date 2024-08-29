@@ -44,7 +44,8 @@ class BattleActions {
       Fairy: "Max Starfall",
       Steel: "Max Steelspike",
       Normal: "Max Strike",
-      Dragon: "Max Wyrmwind"
+      Dragon: "Max Wyrmwind",
+      Stellar: "Max Astral"
     };
     this.Z_MOVES = {
       Poison: "Acid Downpour",

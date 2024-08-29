@@ -35,6 +35,21 @@ export const Rulesets: {[k: string]: FormatData} = {
 		ruleset: ['Obtainable', 'Team Preview', 'Species Clause', 'Nickname Clause', 'Item Clause', 'Adjust Level Down = 50', 'Picked Team Size = Auto', 'Cancel Mod'],
 		banlist: ['Mythical', 'Restricted Legendary', 'Greninja-Bond'],
 	},
+	limiteightrestricted: {
+		effectType: 'ValidatorRule',
+		name: 'Limit Eight Restricted',
+		desc: "Limit eight restricted Pokémon (flagged with * in the rules list)",
+		onValidateTeam(team) {
+			const restrictedSpecies = [];
+			for (const set of team) {
+				const species = this.dex.species.get(set.species);
+				if (this.ruleTable.isRestrictedSpecies(species)) restrictedSpecies.push(species.name);
+			}
+			if (restrictedSpecies.length > 8) {
+				return [`You can only use up to eight restricted Pok\u00E9mon (you have: ${restrictedSpecies.join(', ')})`];
+			}
+		},
+	},
 	limittworestricted: {
 		effectType: 'ValidatorRule',
 		name: 'Limit Two Restricted',
@@ -774,6 +789,38 @@ export const Rulesets: {[k: string]: FormatData} = {
 					];
 				}
 				itemTable.add(item);
+			}
+		},
+	},
+	itemclausenumeric: {
+		effectType: 'ValidatorRule',
+		name: 'Item Clause Numeric',
+		desc: "Prevents teams from having more than one Pok&eacute;mon with the same item",
+		hasValue: 'positive-integer',
+		onBegin() {
+			this.add('rule', `Item Clause: Limit ${this.ruleTable.valueRules.get('itemclause') || 1} of each item`);
+		},
+		onValidateRule(value) {
+			const num = Number(value);
+			if (num < 1 || num > this.ruleTable.maxTeamSize) {
+				throw new Error(`Item Clause must be between 1 and ${this.ruleTable.maxTeamSize}.`);
+			}
+			return value;
+		},
+		onValidateTeam(team) {
+			const itemTable = new this.dex.Multiset<string>();
+			for (const set of team) {
+				const item = this.toID(set.item);
+				if (!item) continue;
+				itemTable.add(item);
+			}
+			const itemLimit = Number(this.ruleTable.valueRules.get('itemclause') || 1);
+			for (const [itemid, num] of itemTable) {
+				if (num <= itemLimit) continue;
+				return [
+					`You are limited to ${itemLimit} of each item by Item Clause.`,
+					`(You have more than ${itemLimit} ${this.dex.items.get(itemid).name})`,
+				];
 			}
 		},
 	},
@@ -2888,10 +2935,18 @@ export const Rulesets: {[k: string]: FormatData} = {
 	onerevivalblessingclause: {
 		effectType: 'ValidatorRule',
 		name: 'One Revival Blessing Clause',
-		desc: "Stops teams from having more than one Pok&eacute;mon with Revival Blessing",
-		banlist: ["Revival Blessing > 1"],
+		desc: "Stops teams from having more than one Pok&eacute;mon with Revival Blessing and prevent a team from using both Assist and Revival Blessing",
+		banlist: ["Revival Blessing > 1", "Assist ++ Revival Blessing"],
 		onBegin() {
-			this.add('rule', 'One Revival Blessing Clause: Limit one Pok\u00e9mon with Revival Blessing');
+			this.add('rule', 'One Revival Blessing Clause: Limit one Pok\u00e9mon with Revival Blessing, prevents team using both Assist and Revival Blessing');
+		},
+	},
+	aerobeeclause: {
+		effectType: 'Rule',
+		name: 'Aerobee Clause',
+		desc: "Automatically bans aerobee",
+		onBegin() {
+			this.add('rule', 'Aerobee Clause: Aerobee got banned, everyone celebrate!');
 		},
 	},
 };

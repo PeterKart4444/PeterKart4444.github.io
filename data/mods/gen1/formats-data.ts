@@ -429,7 +429,7 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 		tier: "OU",
 	},
 	articuno: {
-		tier: "UU",
+		tier: "UUBL",
 	},
 	zapdos: {
 		tier: "OU",

@@ -452,7 +452,7 @@ const FormatsData = {
     tier: "OU"
   },
   articuno: {
-    tier: "UU"
+    tier: "UUBL"
   },
   zapdos: {
     tier: "OU"
