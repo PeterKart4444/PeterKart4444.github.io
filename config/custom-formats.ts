@@ -11,7 +11,7 @@ export const Formats: FormatList = [
 		rated: true,
 		battle: {trunc: Math.trunc},
 
-		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 1000', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'EV limit = 510'],
+		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 1000', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'EV limit = 510', 'Aerobee Clause'],
 		banlist: ['Custom', 'CAP', 'Nonexistent'],
 		unbanlist: ['pokemontag:past', 'Pikachu-Starter', 'Eevee-Starter', 'MissingNo.', 'MissingNo. + No Ability', 'Baddy Bad', 'Bouncy Bubble', 'Buzzy Buzz', 'Floaty Fall', 'Freezy Frost', 'Glitzy Glow', 'Pika Papow', 'Sappy Seed', 'Sizzly Slide', 'Sparkly Swirl', 'Splishy Splash', 'Veevee Volley', 'Zippy Zap'],
 	},
@@ -23,7 +23,7 @@ export const Formats: FormatList = [
 		rated: true,
 		battle: {trunc: Math.trunc},
 
-		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 1000', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'EV limit = 510'],
+		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 1000', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'EV limit = 510', 'Aerobee Clause'],
 		banlist: ['Custom', 'CAP', 'Nonexistent', 'Eternatus-Eternamax > 125'],
 		unbanlist: ['pokemontag:past', 'Pikachu-Starter', 'Eevee-Starter', 'MissingNo.', 'MissingNo. + No Ability', 'Baddy Bad', 'Bouncy Bubble', 'Buzzy Buzz', 'Floaty Fall', 'Freezy Frost', 'Glitzy Glow', 'Pika Papow', 'Sappy Seed', 'Sizzly Slide', 'Sparkly Swirl', 'Splishy Splash', 'Veevee Volley', 'Zippy Zap'],
 	},
@@ -35,7 +35,7 @@ export const Formats: FormatList = [
 		rated: true,
 		battle: {trunc: Math.trunc},
 
-		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 480', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'EV limit = 510'],
+		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 480', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'EV limit = 510', 'Aerobee Clause'],
 		banlist: ['Custom', 'CAP', 'Nonexistent', 'Eternatus-Eternamax > 60'],
 		unbanlist: ['pokemontag:past', 'Pikachu-Starter', 'Eevee-Starter', 'MissingNo.', 'MissingNo. + No Ability', 'Baddy Bad', 'Bouncy Bubble', 'Buzzy Buzz', 'Floaty Fall', 'Freezy Frost', 'Glitzy Glow', 'Pika Papow', 'Sappy Seed', 'Sizzly Slide', 'Sparkly Swirl', 'Splishy Splash', 'Veevee Volley', 'Zippy Zap'],
 	},
@@ -47,7 +47,7 @@ export const Formats: FormatList = [
 		rated: true,
 		battle: {trunc: Math.trunc},
 
-		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 192', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'EV limit = 510'],
+		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 192', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'EV limit = 510', 'Aerobee Clause'],
 		banlist: ['Custom', 'CAP', 'Nonexistent', 'Eternatus-Eternamax > 24'],
 		unbanlist: ['pokemontag:past', 'Pikachu-Starter', 'Eevee-Starter', 'MissingNo.', 'MissingNo. + No Ability', 'Baddy Bad', 'Bouncy Bubble', 'Buzzy Buzz', 'Floaty Fall', 'Freezy Frost', 'Glitzy Glow', 'Pika Papow', 'Sappy Seed', 'Sizzly Slide', 'Sparkly Swirl', 'Splishy Splash', 'Veevee Volley', 'Zippy Zap'],
 	},
@@ -59,7 +59,7 @@ export const Formats: FormatList = [
 		rated: true,
 		battle: {trunc: Math.trunc},
 
-		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 144', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'EV limit = 510'],
+		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 144', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'EV limit = 510', 'Aerobee Clause'],
 		banlist: ['Custom', 'CAP', 'Nonexistent', 'Eternatus-Eternamax > 18'],
 		unbanlist: ['pokemontag:past', 'Pikachu-Starter', 'Eevee-Starter', 'MissingNo.', 'MissingNo. + No Ability', 'Baddy Bad', 'Bouncy Bubble', 'Buzzy Buzz', 'Floaty Fall', 'Freezy Frost', 'Glitzy Glow', 'Pika Papow', 'Sappy Seed', 'Sizzly Slide', 'Sparkly Swirl', 'Splishy Splash', 'Veevee Volley', 'Zippy Zap'],
 	},
@@ -71,7 +71,7 @@ export const Formats: FormatList = [
 		rated: true,
 		battle: {trunc: Math.trunc},
 
-		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 96', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'EV limit = 510'],
+		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 96', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'EV limit = 510', 'Aerobee Clause'],
 		banlist: ['Custom', 'CAP', 'Nonexistent', 'Eternatus-Eternamax > 12'],
 		unbanlist: ['pokemontag:past', 'Pikachu-Starter', 'Eevee-Starter', 'MissingNo.', 'MissingNo. + No Ability', 'Baddy Bad', 'Bouncy Bubble', 'Buzzy Buzz', 'Floaty Fall', 'Freezy Frost', 'Glitzy Glow', 'Pika Papow', 'Sappy Seed', 'Sizzly Slide', 'Sparkly Swirl', 'Splishy Splash', 'Veevee Volley', 'Zippy Zap'],
 	},
@@ -83,7 +83,7 @@ export const Formats: FormatList = [
 		rated: true,
 		battle: {trunc: Math.trunc},
 
-		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 72', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'EV limit = 510'],
+		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 72', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'EV limit = 510', 'Aerobee Clause'],
 		banlist: ['Custom', 'CAP', 'Nonexistent', 'Eternatus-Eternamax > 9'],
 		unbanlist: ['pokemontag:past', 'Pikachu-Starter', 'Eevee-Starter', 'MissingNo.', 'MissingNo. + No Ability', 'Baddy Bad', 'Bouncy Bubble', 'Buzzy Buzz', 'Floaty Fall', 'Freezy Frost', 'Glitzy Glow', 'Pika Papow', 'Sappy Seed', 'Sizzly Slide', 'Sparkly Swirl', 'Splishy Splash', 'Veevee Volley', 'Zippy Zap'],
 	},
@@ -95,7 +95,7 @@ export const Formats: FormatList = [
 		rated: true,
 		battle: {trunc: Math.trunc},
 
-		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 48', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'EV limit = 510'],
+		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 48', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'EV limit = 510', 'Aerobee Clause'],
 		banlist: ['Custom', 'CAP', 'Nonexistent', 'Eternatus-Eternamax > 6'],
 		unbanlist: ['pokemontag:past', 'Pikachu-Starter', 'Eevee-Starter', 'MissingNo.', 'MissingNo. + No Ability', 'Baddy Bad', 'Bouncy Bubble', 'Buzzy Buzz', 'Floaty Fall', 'Freezy Frost', 'Glitzy Glow', 'Pika Papow', 'Sappy Seed', 'Sizzly Slide', 'Sparkly Swirl', 'Splishy Splash', 'Veevee Volley', 'Zippy Zap'],
 	},
@@ -107,7 +107,7 @@ export const Formats: FormatList = [
 		rated: true,
 		battle: {trunc: Math.trunc},
 
-		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 36', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'EV limit = 510'],
+		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 36', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'EV limit = 510', 'Aerobee Clause'],
 		banlist: ['Custom', 'CAP', 'Nonexistent', 'Eternatus-Eternamax > 4'],
 		unbanlist: ['pokemontag:past', 'Pikachu-Starter', 'Eevee-Starter', 'MissingNo.', 'MissingNo. + No Ability', 'Baddy Bad', 'Bouncy Bubble', 'Buzzy Buzz', 'Floaty Fall', 'Freezy Frost', 'Glitzy Glow', 'Pika Papow', 'Sappy Seed', 'Sizzly Slide', 'Sparkly Swirl', 'Splishy Splash', 'Veevee Volley', 'Zippy Zap'],
 	},
@@ -119,7 +119,7 @@ export const Formats: FormatList = [
 		rated: true,
 		battle: {trunc: Math.trunc},
 
-		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 24', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'EV limit = 510'],
+		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 24', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'EV limit = 510', 'Aerobee Clause'],
 		banlist: ['Custom', 'CAP', 'Nonexistent', 'Eternatus-Eternamax > 3'],
 		unbanlist: ['pokemontag:past', 'Pikachu-Starter', 'Eevee-Starter', 'MissingNo.', 'MissingNo. + No Ability', 'Baddy Bad', 'Bouncy Bubble', 'Buzzy Buzz', 'Floaty Fall', 'Freezy Frost', 'Glitzy Glow', 'Pika Papow', 'Sappy Seed', 'Sizzly Slide', 'Sparkly Swirl', 'Splishy Splash', 'Veevee Volley', 'Zippy Zap'],
 	},
@@ -131,7 +131,7 @@ export const Formats: FormatList = [
 		rated: true,
 		battle: {trunc: Math.trunc},
 
-		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 18', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'EV limit = 510'],
+		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 18', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'EV limit = 510', 'Aerobee Clause'],
 		banlist: ['Custom', 'CAP', 'Nonexistent', 'Eternatus-Eternamax > 2'],
 		unbanlist: ['pokemontag:past', 'Pikachu-Starter', 'Eevee-Starter', 'MissingNo.', 'MissingNo. + No Ability', 'Baddy Bad', 'Bouncy Bubble', 'Buzzy Buzz', 'Floaty Fall', 'Freezy Frost', 'Glitzy Glow', 'Pika Papow', 'Sappy Seed', 'Sizzly Slide', 'Sparkly Swirl', 'Splishy Splash', 'Veevee Volley', 'Zippy Zap'],
 	},
@@ -143,7 +143,7 @@ export const Formats: FormatList = [
 		rated: true,
 		battle: {trunc: Math.trunc},
 
-		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 12', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'EV limit = 510'],
+		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 12', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'EV limit = 510', 'Aerobee Clause'],
 		banlist: ['Custom', 'CAP', 'Nonexistent', 'Eternatus-Eternamax > 1'],
 		unbanlist: ['pokemontag:past', 'Pikachu-Starter', 'Eevee-Starter', 'MissingNo.', 'MissingNo. + No Ability', 'Baddy Bad', 'Bouncy Bubble', 'Buzzy Buzz', 'Floaty Fall', 'Freezy Frost', 'Glitzy Glow', 'Pika Papow', 'Sappy Seed', 'Sizzly Slide', 'Sparkly Swirl', 'Splishy Splash', 'Veevee Volley', 'Zippy Zap'],
 	},
@@ -155,7 +155,7 @@ export const Formats: FormatList = [
 		rated: true,
 		battle: {trunc: Math.trunc},
 
-		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 6', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'EV limit = 510'],
+		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 6', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'EV limit = 510', 'Aerobee Clause'],
 		banlist: ['Custom', 'CAP', 'Nonexistent', 'Eternatus-Eternamax > 1'],
 		unbanlist: ['pokemontag:past', 'Pikachu-Starter', 'Eevee-Starter', 'MissingNo.', 'MissingNo. + No Ability', 'Baddy Bad', 'Bouncy Bubble', 'Buzzy Buzz', 'Floaty Fall', 'Freezy Frost', 'Glitzy Glow', 'Pika Papow', 'Sappy Seed', 'Sizzly Slide', 'Sparkly Swirl', 'Splishy Splash', 'Veevee Volley', 'Zippy Zap'],
 	},
@@ -167,7 +167,7 @@ export const Formats: FormatList = [
 		rated: true,
 		battle: {trunc: Math.trunc},
 
-		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 5', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'EV limit = 510'],
+		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 5', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'EV limit = 510', 'Aerobee Clause'],
 		banlist: ['Custom', 'CAP', 'Nonexistent', 'Eternatus-Eternamax'],
 		unbanlist: ['pokemontag:past', 'Pikachu-Starter', 'Eevee-Starter', 'MissingNo.', 'MissingNo. + No Ability', 'Baddy Bad', 'Bouncy Bubble', 'Buzzy Buzz', 'Floaty Fall', 'Freezy Frost', 'Glitzy Glow', 'Pika Papow', 'Sappy Seed', 'Sizzly Slide', 'Sparkly Swirl', 'Splishy Splash', 'Veevee Volley', 'Zippy Zap'],
 	},
@@ -179,7 +179,7 @@ export const Formats: FormatList = [
 		rated: true,
 		battle: {trunc: Math.trunc},
 
-		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 4', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'EV limit = 510'],
+		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 4', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'EV limit = 510', 'Aerobee Clause'],
 		banlist: ['Custom', 'CAP', 'Nonexistent', 'Eternatus-Eternamax'],
 		unbanlist: ['pokemontag:past', 'Pikachu-Starter', 'Eevee-Starter', 'MissingNo.', 'MissingNo. + No Ability', 'Baddy Bad', 'Bouncy Bubble', 'Buzzy Buzz', 'Floaty Fall', 'Freezy Frost', 'Glitzy Glow', 'Pika Papow', 'Sappy Seed', 'Sizzly Slide', 'Sparkly Swirl', 'Splishy Splash', 'Veevee Volley', 'Zippy Zap'],
 	},
@@ -191,7 +191,7 @@ export const Formats: FormatList = [
 		rated: true,
 		battle: {trunc: Math.trunc},
 
-		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 3', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'One Revival Blessing Clause', 'EV limit = 510'],
+		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 3', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'One Revival Blessing Clause', 'EV limit = 510', 'Aerobee Clause'],
 		banlist: ['Custom', 'CAP', 'Nonexistent', 'Eternatus-Eternamax'],
 		unbanlist: ['pokemontag:past', 'Pikachu-Starter', 'Eevee-Starter', 'MissingNo.', 'MissingNo. + No Ability', 'Baddy Bad', 'Bouncy Bubble', 'Buzzy Buzz', 'Floaty Fall', 'Freezy Frost', 'Glitzy Glow', 'Pika Papow', 'Sappy Seed', 'Sizzly Slide', 'Sparkly Swirl', 'Splishy Splash', 'Veevee Volley', 'Zippy Zap'],
 	},
@@ -203,7 +203,7 @@ export const Formats: FormatList = [
 		rated: true,
 		battle: {trunc: Math.trunc},
 
-		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 2', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'One Revival Blessing Clause', 'EV limit = 510'],
+		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 2', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'One Revival Blessing Clause', 'EV limit = 510', 'Aerobee Clause'],
 		banlist: ['Custom', 'CAP', 'Nonexistent', 'Eternatus-Eternamax'],
 		unbanlist: ['pokemontag:past', 'Pikachu-Starter', 'Eevee-Starter', 'MissingNo.', 'MissingNo. + No Ability', 'Baddy Bad', 'Bouncy Bubble', 'Buzzy Buzz', 'Floaty Fall', 'Freezy Frost', 'Glitzy Glow', 'Pika Papow', 'Sappy Seed', 'Sizzly Slide', 'Sparkly Swirl', 'Splishy Splash', 'Veevee Volley', 'Zippy Zap'],
 	},
@@ -215,7 +215,7 @@ export const Formats: FormatList = [
 		rated: true,
 		battle: {trunc: Math.trunc},
 
-		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 1', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'One Revival Blessing Clause', 'EV limit = 510'],
+		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 1', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'One Revival Blessing Clause', 'EV limit = 510', 'Aerobee Clause'],
 		banlist: ['Custom', 'CAP', 'Nonexistent', 'Eternatus-Eternamax'],
 		unbanlist: ['pokemontag:past', 'Pikachu-Starter', 'Eevee-Starter', 'MissingNo.', 'MissingNo. + No Ability', 'Baddy Bad', 'Bouncy Bubble', 'Buzzy Buzz', 'Floaty Fall', 'Freezy Frost', 'Glitzy Glow', 'Pika Papow', 'Sappy Seed', 'Sizzly Slide', 'Sparkly Swirl', 'Splishy Splash', 'Veevee Volley', 'Zippy Zap'],
 	},
@@ -231,7 +231,7 @@ export const Formats: FormatList = [
 		rated: true,
 		battle: {trunc: Math.trunc},
 
-		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 1000', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'EV limit = 510'],
+		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 1000', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'EV limit = 510', 'Aerobee Clause'],
 		banlist: ['Custom', 'CAP', 'Nonexistent', 'Eternatus-Eternamax > 125'],
 		unbanlist: ['pokemontag:past', 'Pikachu-Starter', 'Eevee-Starter', 'MissingNo.', 'MissingNo. + No Ability', 'Baddy Bad', 'Bouncy Bubble', 'Buzzy Buzz', 'Floaty Fall', 'Freezy Frost', 'Glitzy Glow', 'Pika Papow', 'Sappy Seed', 'Sizzly Slide', 'Sparkly Swirl', 'Splishy Splash', 'Veevee Volley', 'Zippy Zap'],
 	},
@@ -244,7 +244,7 @@ export const Formats: FormatList = [
 		rated: true,
 		battle: {trunc: Math.trunc},
 
-		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 480', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'EV limit = 510'],
+		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 480', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'EV limit = 510', 'Aerobee Clause'],
 		banlist: ['Custom', 'CAP', 'Nonexistent', 'Eternatus-Eternamax > 60'],
 		unbanlist: ['pokemontag:past', 'Pikachu-Starter', 'Eevee-Starter', 'MissingNo.', 'MissingNo. + No Ability', 'Baddy Bad', 'Bouncy Bubble', 'Buzzy Buzz', 'Floaty Fall', 'Freezy Frost', 'Glitzy Glow', 'Pika Papow', 'Sappy Seed', 'Sizzly Slide', 'Sparkly Swirl', 'Splishy Splash', 'Veevee Volley', 'Zippy Zap'],
 	},
@@ -257,7 +257,7 @@ export const Formats: FormatList = [
 		rated: true,
 		battle: {trunc: Math.trunc},
 
-		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 192', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'EV limit = 510'],
+		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 192', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'EV limit = 510', 'Aerobee Clause'],
 		banlist: ['Custom', 'CAP', 'Nonexistent', 'Eternatus-Eternamax > 24'],
 		unbanlist: ['pokemontag:past', 'Pikachu-Starter', 'Eevee-Starter', 'MissingNo.', 'MissingNo. + No Ability', 'Baddy Bad', 'Bouncy Bubble', 'Buzzy Buzz', 'Floaty Fall', 'Freezy Frost', 'Glitzy Glow', 'Pika Papow', 'Sappy Seed', 'Sizzly Slide', 'Sparkly Swirl', 'Splishy Splash', 'Veevee Volley', 'Zippy Zap'],
 	},
@@ -270,7 +270,7 @@ export const Formats: FormatList = [
 		rated: true,
 		battle: {trunc: Math.trunc},
 
-		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 144', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'EV limit = 510'],
+		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 144', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'EV limit = 510', 'Aerobee Clause'],
 		banlist: ['Custom', 'CAP', 'Nonexistent', 'Eternatus-Eternamax > 18'],
 		unbanlist: ['pokemontag:past', 'Pikachu-Starter', 'Eevee-Starter', 'MissingNo.', 'MissingNo. + No Ability', 'Baddy Bad', 'Bouncy Bubble', 'Buzzy Buzz', 'Floaty Fall', 'Freezy Frost', 'Glitzy Glow', 'Pika Papow', 'Sappy Seed', 'Sizzly Slide', 'Sparkly Swirl', 'Splishy Splash', 'Veevee Volley', 'Zippy Zap'],
 	},
@@ -283,7 +283,7 @@ export const Formats: FormatList = [
 		rated: true,
 		battle: {trunc: Math.trunc},
 
-		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 96', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'EV limit = 510'],
+		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 96', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'EV limit = 510', 'Aerobee Clause'],
 		banlist: ['Custom', 'CAP', 'Nonexistent', 'Eternatus-Eternamax > 12'],
 		unbanlist: ['pokemontag:past', 'Pikachu-Starter', 'Eevee-Starter', 'MissingNo.', 'MissingNo. + No Ability', 'Baddy Bad', 'Bouncy Bubble', 'Buzzy Buzz', 'Floaty Fall', 'Freezy Frost', 'Glitzy Glow', 'Pika Papow', 'Sappy Seed', 'Sizzly Slide', 'Sparkly Swirl', 'Splishy Splash', 'Veevee Volley', 'Zippy Zap'],
 	},
@@ -296,7 +296,7 @@ export const Formats: FormatList = [
 		rated: true,
 		battle: {trunc: Math.trunc},
 
-		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 72', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'EV limit = 510'],
+		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 72', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'EV limit = 510', 'Aerobee Clause'],
 		banlist: ['Custom', 'CAP', 'Nonexistent', 'Eternatus-Eternamax > 9'],
 		unbanlist: ['pokemontag:past', 'Pikachu-Starter', 'Eevee-Starter', 'MissingNo.', 'MissingNo. + No Ability', 'Baddy Bad', 'Bouncy Bubble', 'Buzzy Buzz', 'Floaty Fall', 'Freezy Frost', 'Glitzy Glow', 'Pika Papow', 'Sappy Seed', 'Sizzly Slide', 'Sparkly Swirl', 'Splishy Splash', 'Veevee Volley', 'Zippy Zap'],
 	},
@@ -309,7 +309,7 @@ export const Formats: FormatList = [
 		rated: true,
 		battle: {trunc: Math.trunc},
 
-		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 48', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'EV limit = 510'],
+		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 48', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'EV limit = 510', 'Aerobee Clause'],
 		banlist: ['Custom', 'CAP', 'Nonexistent', 'Eternatus-Eternamax > 6'],
 		unbanlist: ['pokemontag:past', 'Pikachu-Starter', 'Eevee-Starter', 'MissingNo.', 'MissingNo. + No Ability', 'Baddy Bad', 'Bouncy Bubble', 'Buzzy Buzz', 'Floaty Fall', 'Freezy Frost', 'Glitzy Glow', 'Pika Papow', 'Sappy Seed', 'Sizzly Slide', 'Sparkly Swirl', 'Splishy Splash', 'Veevee Volley', 'Zippy Zap'],
 	},
@@ -322,7 +322,7 @@ export const Formats: FormatList = [
 		rated: true,
 		battle: {trunc: Math.trunc},
 
-		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 36', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'EV limit = 510'],
+		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 36', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'EV limit = 510', 'Aerobee Clause'],
 		banlist: ['Custom', 'CAP', 'Nonexistent', 'Eternatus-Eternamax > 4'],
 		unbanlist: ['pokemontag:past', 'Pikachu-Starter', 'Eevee-Starter', 'MissingNo.', 'MissingNo. + No Ability', 'Baddy Bad', 'Bouncy Bubble', 'Buzzy Buzz', 'Floaty Fall', 'Freezy Frost', 'Glitzy Glow', 'Pika Papow', 'Sappy Seed', 'Sizzly Slide', 'Sparkly Swirl', 'Splishy Splash', 'Veevee Volley', 'Zippy Zap'],
 	},
@@ -335,7 +335,7 @@ export const Formats: FormatList = [
 		rated: true,
 		battle: {trunc: Math.trunc},
 
-		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 24', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'EV limit = 510'],
+		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 24', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'EV limit = 510', 'Aerobee Clause'],
 		banlist: ['Custom', 'CAP', 'Nonexistent', 'Eternatus-Eternamax > 3'],
 		unbanlist: ['pokemontag:past', 'Pikachu-Starter', 'Eevee-Starter', 'MissingNo.', 'MissingNo. + No Ability', 'Baddy Bad', 'Bouncy Bubble', 'Buzzy Buzz', 'Floaty Fall', 'Freezy Frost', 'Glitzy Glow', 'Pika Papow', 'Sappy Seed', 'Sizzly Slide', 'Sparkly Swirl', 'Splishy Splash', 'Veevee Volley', 'Zippy Zap'],
 	},
@@ -348,7 +348,7 @@ export const Formats: FormatList = [
 		rated: true,
 		battle: {trunc: Math.trunc},
 
-		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 18', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'EV limit = 510'],
+		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 18', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'EV limit = 510', 'Aerobee Clause'],
 		banlist: ['Custom', 'CAP', 'Nonexistent', 'Eternatus-Eternamax > 2'],
 		unbanlist: ['pokemontag:past', 'Pikachu-Starter', 'Eevee-Starter', 'MissingNo.', 'MissingNo. + No Ability', 'Baddy Bad', 'Bouncy Bubble', 'Buzzy Buzz', 'Floaty Fall', 'Freezy Frost', 'Glitzy Glow', 'Pika Papow', 'Sappy Seed', 'Sizzly Slide', 'Sparkly Swirl', 'Splishy Splash', 'Veevee Volley', 'Zippy Zap'],
 	},
@@ -361,7 +361,7 @@ export const Formats: FormatList = [
 		rated: true,
 		battle: {trunc: Math.trunc},
 
-		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 12', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'EV limit = 510'],
+		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 12', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'EV limit = 510', 'Aerobee Clause'],
 		banlist: ['Custom', 'CAP', 'Nonexistent', 'Eternatus-Eternamax > 1'],
 		unbanlist: ['pokemontag:past', 'Pikachu-Starter', 'Eevee-Starter', 'MissingNo.', 'MissingNo. + No Ability', 'Baddy Bad', 'Bouncy Bubble', 'Buzzy Buzz', 'Floaty Fall', 'Freezy Frost', 'Glitzy Glow', 'Pika Papow', 'Sappy Seed', 'Sizzly Slide', 'Sparkly Swirl', 'Splishy Splash', 'Veevee Volley', 'Zippy Zap'],
 	},
@@ -374,7 +374,7 @@ export const Formats: FormatList = [
 		rated: true,
 		battle: {trunc: Math.trunc},
 
-		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 6', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'One Revival Blessing Clause', 'EV limit = 510'],
+		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 6', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'One Revival Blessing Clause', 'EV limit = 510', 'Aerobee Clause'],
 		banlist: ['Custom', 'CAP', 'Nonexistent', 'Eternatus-Eternamax > 1'],
 		unbanlist: ['pokemontag:past', 'Pikachu-Starter', 'Eevee-Starter', 'MissingNo.', 'MissingNo. + No Ability', 'Baddy Bad', 'Bouncy Bubble', 'Buzzy Buzz', 'Floaty Fall', 'Freezy Frost', 'Glitzy Glow', 'Pika Papow', 'Sappy Seed', 'Sizzly Slide', 'Sparkly Swirl', 'Splishy Splash', 'Veevee Volley', 'Zippy Zap'],
 	},
@@ -387,7 +387,7 @@ export const Formats: FormatList = [
 		rated: true,
 		battle: {trunc: Math.trunc},
 
-		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 4', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'One Revival Blessing Clause', 'EV limit = 510'],
+		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 4', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'One Revival Blessing Clause', 'EV limit = 510', 'Aerobee Clause'],
 		banlist: ['Custom', 'CAP', 'Nonexistent', 'Eternatus-Eternamax'],
 		unbanlist: ['pokemontag:past', 'Pikachu-Starter', 'Eevee-Starter', 'MissingNo.', 'MissingNo. + No Ability', 'Baddy Bad', 'Bouncy Bubble', 'Buzzy Buzz', 'Floaty Fall', 'Freezy Frost', 'Glitzy Glow', 'Pika Papow', 'Sappy Seed', 'Sizzly Slide', 'Sparkly Swirl', 'Splishy Splash', 'Veevee Volley', 'Zippy Zap'],
 	},
@@ -400,7 +400,7 @@ export const Formats: FormatList = [
 		rated: true,
 		battle: {trunc: Math.trunc},
 
-		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 2', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'One Revival Blessing Clause', 'EV limit = 510'],
+		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 2', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'One Revival Blessing Clause', 'EV limit = 510', 'Aerobee Clause'],
 		banlist: ['Custom', 'CAP', 'Nonexistent', 'Eternatus-Eternamax'],
 		unbanlist: ['pokemontag:past', 'Pikachu-Starter', 'Eevee-Starter', 'MissingNo.', 'MissingNo. + No Ability', 'Baddy Bad', 'Bouncy Bubble', 'Buzzy Buzz', 'Floaty Fall', 'Freezy Frost', 'Glitzy Glow', 'Pika Papow', 'Sappy Seed', 'Sizzly Slide', 'Sparkly Swirl', 'Splishy Splash', 'Veevee Volley', 'Zippy Zap'],
 	},
@@ -416,7 +416,7 @@ export const Formats: FormatList = [
 		rated: true,
 		battle: {trunc: Math.trunc},
 
-		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 1000', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'EV limit = 510'],
+		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 1000', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'EV limit = 510', 'Aerobee Clause'],
 		banlist: ['Custom', 'CAP', 'Nonexistent'],
 		unbanlist: ['pokemontag:past', 'Pikachu-Starter', 'Eevee-Starter', 'MissingNo.', 'MissingNo. + No Ability', 'Baddy Bad', 'Bouncy Bubble', 'Buzzy Buzz', 'Floaty Fall', 'Freezy Frost', 'Glitzy Glow', 'Pika Papow', 'Sappy Seed', 'Sizzly Slide', 'Sparkly Swirl', 'Splishy Splash', 'Veevee Volley', 'Zippy Zap'],
 	},
@@ -429,7 +429,7 @@ export const Formats: FormatList = [
 		rated: true,
 		battle: {trunc: Math.trunc},
 
-		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 480', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'EV limit = 510'],
+		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 480', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'EV limit = 510', 'Aerobee Clause'],
 		banlist: ['Custom', 'CAP', 'Nonexistent'],
 		unbanlist: ['pokemontag:past', 'Pikachu-Starter', 'Eevee-Starter', 'MissingNo.', 'MissingNo. + No Ability', 'Baddy Bad', 'Bouncy Bubble', 'Buzzy Buzz', 'Floaty Fall', 'Freezy Frost', 'Glitzy Glow', 'Pika Papow', 'Sappy Seed', 'Sizzly Slide', 'Sparkly Swirl', 'Splishy Splash', 'Veevee Volley', 'Zippy Zap'],
 	},
@@ -442,7 +442,7 @@ export const Formats: FormatList = [
 		rated: true,
 		battle: {trunc: Math.trunc},
 
-		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 192', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'EV limit = 510'],
+		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 192', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'EV limit = 510', 'Aerobee Clause'],
 		banlist: ['Custom', 'CAP', 'Nonexistent'],
 		unbanlist: ['pokemontag:past', 'Pikachu-Starter', 'Eevee-Starter', 'MissingNo.', 'MissingNo. + No Ability', 'Baddy Bad', 'Bouncy Bubble', 'Buzzy Buzz', 'Floaty Fall', 'Freezy Frost', 'Glitzy Glow', 'Pika Papow', 'Sappy Seed', 'Sizzly Slide', 'Sparkly Swirl', 'Splishy Splash', 'Veevee Volley', 'Zippy Zap'],
 	},
@@ -455,7 +455,7 @@ export const Formats: FormatList = [
 		rated: true,
 		battle: {trunc: Math.trunc},
 
-		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 144', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'EV limit = 510'],
+		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 144', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'EV limit = 510', 'Aerobee Clause'],
 		banlist: ['Custom', 'CAP', 'Nonexistent'],
 		unbanlist: ['pokemontag:past', 'Pikachu-Starter', 'Eevee-Starter', 'MissingNo.', 'MissingNo. + No Ability', 'Baddy Bad', 'Bouncy Bubble', 'Buzzy Buzz', 'Floaty Fall', 'Freezy Frost', 'Glitzy Glow', 'Pika Papow', 'Sappy Seed', 'Sizzly Slide', 'Sparkly Swirl', 'Splishy Splash', 'Veevee Volley', 'Zippy Zap'],
 	},
@@ -468,7 +468,7 @@ export const Formats: FormatList = [
 		rated: true,
 		battle: {trunc: Math.trunc},
 
-		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 96', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'EV limit = 510'],
+		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 96', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'EV limit = 510', 'Aerobee Clause'],
 		banlist: ['Custom', 'CAP', 'Nonexistent'],
 		unbanlist: ['pokemontag:past', 'Pikachu-Starter', 'Eevee-Starter', 'MissingNo.', 'MissingNo. + No Ability', 'Baddy Bad', 'Bouncy Bubble', 'Buzzy Buzz', 'Floaty Fall', 'Freezy Frost', 'Glitzy Glow', 'Pika Papow', 'Sappy Seed', 'Sizzly Slide', 'Sparkly Swirl', 'Splishy Splash', 'Veevee Volley', 'Zippy Zap'],
 	},
@@ -481,7 +481,7 @@ export const Formats: FormatList = [
 		rated: true,
 		battle: {trunc: Math.trunc},
 
-		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 72', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'EV limit = 510'],
+		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 72', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'EV limit = 510', 'Aerobee Clause'],
 		banlist: ['Custom', 'CAP', 'Nonexistent'],
 		unbanlist: ['pokemontag:past', 'Pikachu-Starter', 'Eevee-Starter', 'MissingNo.', 'MissingNo. + No Ability', 'Baddy Bad', 'Bouncy Bubble', 'Buzzy Buzz', 'Floaty Fall', 'Freezy Frost', 'Glitzy Glow', 'Pika Papow', 'Sappy Seed', 'Sizzly Slide', 'Sparkly Swirl', 'Splishy Splash', 'Veevee Volley', 'Zippy Zap'],
 	},
@@ -494,7 +494,7 @@ export const Formats: FormatList = [
 		rated: true,
 		battle: {trunc: Math.trunc},
 
-		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 48', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'EV limit = 510'],
+		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 48', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'EV limit = 510', 'Aerobee Clause'],
 		banlist: ['Custom', 'CAP', 'Nonexistent'],
 		unbanlist: ['pokemontag:past', 'Pikachu-Starter', 'Eevee-Starter', 'MissingNo.', 'MissingNo. + No Ability', 'Baddy Bad', 'Bouncy Bubble', 'Buzzy Buzz', 'Floaty Fall', 'Freezy Frost', 'Glitzy Glow', 'Pika Papow', 'Sappy Seed', 'Sizzly Slide', 'Sparkly Swirl', 'Splishy Splash', 'Veevee Volley', 'Zippy Zap'],
 	},
@@ -507,7 +507,7 @@ export const Formats: FormatList = [
 		rated: true,
 		battle: {trunc: Math.trunc},
 
-		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 36', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'EV limit = 510'],
+		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 36', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'EV limit = 510', 'Aerobee Clause'],
 		banlist: ['Custom', 'CAP', 'Nonexistent'],
 		unbanlist: ['pokemontag:past', 'Pikachu-Starter', 'Eevee-Starter', 'MissingNo.', 'MissingNo. + No Ability', 'Baddy Bad', 'Bouncy Bubble', 'Buzzy Buzz', 'Floaty Fall', 'Freezy Frost', 'Glitzy Glow', 'Pika Papow', 'Sappy Seed', 'Sizzly Slide', 'Sparkly Swirl', 'Splishy Splash', 'Veevee Volley', 'Zippy Zap'],
 	},
@@ -520,7 +520,7 @@ export const Formats: FormatList = [
 		rated: true,
 		battle: {trunc: Math.trunc},
 
-		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 24', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'EV limit = 510'],
+		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 24', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'EV limit = 510', 'Aerobee Clause'],
 		banlist: ['Custom', 'CAP', 'Nonexistent'],
 		unbanlist: ['pokemontag:past', 'Pikachu-Starter', 'Eevee-Starter', 'MissingNo.', 'MissingNo. + No Ability', 'Baddy Bad', 'Bouncy Bubble', 'Buzzy Buzz', 'Floaty Fall', 'Freezy Frost', 'Glitzy Glow', 'Pika Papow', 'Sappy Seed', 'Sizzly Slide', 'Sparkly Swirl', 'Splishy Splash', 'Veevee Volley', 'Zippy Zap'],
 	},
@@ -533,7 +533,7 @@ export const Formats: FormatList = [
 		rated: true,
 		battle: {trunc: Math.trunc},
 
-		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 18', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'EV limit = 510'],
+		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 18', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'EV limit = 510', 'Aerobee Clause'],
 		banlist: ['Custom', 'CAP', 'Nonexistent'],
 		unbanlist: ['pokemontag:past', 'Pikachu-Starter', 'Eevee-Starter', 'MissingNo.', 'MissingNo. + No Ability', 'Baddy Bad', 'Bouncy Bubble', 'Buzzy Buzz', 'Floaty Fall', 'Freezy Frost', 'Glitzy Glow', 'Pika Papow', 'Sappy Seed', 'Sizzly Slide', 'Sparkly Swirl', 'Splishy Splash', 'Veevee Volley', 'Zippy Zap'],
 	},
@@ -546,7 +546,7 @@ export const Formats: FormatList = [
 		rated: true,
 		battle: {trunc: Math.trunc},
 
-		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 12', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'EV limit = 510'],
+		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 12', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'EV limit = 510', 'Aerobee Clause'],
 		banlist: ['Custom', 'CAP', 'Nonexistent'],
 		unbanlist: ['pokemontag:past', 'Pikachu-Starter', 'Eevee-Starter', 'MissingNo.', 'MissingNo. + No Ability', 'Baddy Bad', 'Bouncy Bubble', 'Buzzy Buzz', 'Floaty Fall', 'Freezy Frost', 'Glitzy Glow', 'Pika Papow', 'Sappy Seed', 'Sizzly Slide', 'Sparkly Swirl', 'Splishy Splash', 'Veevee Volley', 'Zippy Zap'],
 	},
@@ -559,7 +559,7 @@ export const Formats: FormatList = [
 		rated: true,
 		battle: {trunc: Math.trunc},
 
-		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 6', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'One Revival Blessing Clause', 'EV limit = 510'],
+		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 6', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'One Revival Blessing Clause', 'EV limit = 510', 'Aerobee Clause'],
 		banlist: ['Custom', 'CAP', 'Nonexistent'],
 		unbanlist: ['pokemontag:past', 'Pikachu-Starter', 'Eevee-Starter', 'MissingNo.', 'MissingNo. + No Ability', 'Baddy Bad', 'Bouncy Bubble', 'Buzzy Buzz', 'Floaty Fall', 'Freezy Frost', 'Glitzy Glow', 'Pika Papow', 'Sappy Seed', 'Sizzly Slide', 'Sparkly Swirl', 'Splishy Splash', 'Veevee Volley', 'Zippy Zap'],
 	},
@@ -572,7 +572,7 @@ export const Formats: FormatList = [
 		rated: true,
 		battle: {trunc: Math.trunc},
 
-		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 3', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'One Revival Blessing Clause', 'EV limit = 510'],
+		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 3', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'One Revival Blessing Clause', 'EV limit = 510', 'Aerobee Clause'],
 		banlist: ['Custom', 'CAP', 'Nonexistent'],
 		unbanlist: ['pokemontag:past', 'Pikachu-Starter', 'Eevee-Starter', 'MissingNo.', 'MissingNo. + No Ability', 'Baddy Bad', 'Bouncy Bubble', 'Buzzy Buzz', 'Floaty Fall', 'Freezy Frost', 'Glitzy Glow', 'Pika Papow', 'Sappy Seed', 'Sizzly Slide', 'Sparkly Swirl', 'Splishy Splash', 'Veevee Volley', 'Zippy Zap'],
 	},
@@ -617,7 +617,7 @@ export const Formats: FormatList = [
 		rated: true,
 		battle: {trunc: Math.trunc},
 
-		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 534', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'Broken Record Mod', 'Item Clause', 'EV limit = 510'],
+		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Obtainable2', 'Endless Battle Clause', 'Max Team Size = 534', 'Max Move Count = 4', 'Max Level = 999999', 'Default Level = 999999', 'Illusion Level Mod', 'Dynamax Mod', 'PeterKart Clause', 'One Revival Blessing Clause', 'Broken Record Mod', 'Item Clause', 'EV limit = 510', 'Aerobee Clause'],
 		banlist: ['Custom', 'CAP', 'Nonexistent', 'No Item', 'Eternatus-Eternamax'],
 		unbanlist: ['pokemontag:past', 'Pikachu-Starter', 'Eevee-Starter', 'MissingNo.', 'MissingNo. + No Ability', 'Baddy Bad', 'Bouncy Bubble', 'Buzzy Buzz', 'Floaty Fall', 'Freezy Frost', 'Glitzy Glow', 'Pika Papow', 'Sappy Seed', 'Sizzly Slide', 'Sparkly Swirl', 'Splishy Splash', 'Veevee Volley', 'Zippy Zap'],
 	},
