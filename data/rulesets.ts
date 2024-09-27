@@ -2941,6 +2941,15 @@ export const Rulesets: {[k: string]: FormatData} = {
 			this.add('rule', 'One Revival Blessing Clause: Limit one Pok\u00e9mon with Revival Blessing, prevents team using both Assist and Revival Blessing');
 		},
 	},
+	revivalblessingassistclause: {
+		effectType: 'ValidatorRule',
+		name: 'Revival Blessing Assist Clause',
+		desc: "Stops teams from using both Assist and Revival Blessing",
+		banlist: ["Assist ++ Revival Blessing"],
+		onBegin() {
+			this.add('rule', 'Revival Blessing Assist Clause: Prevents team using both Assist and Revival Blessing');
+		},
+	},
 	aerobeeclause: {
 		effectType: 'Rule',
 		name: 'Aerobee Clause',

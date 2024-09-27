@@ -22446,8 +22446,7 @@ const Moves = {
     flags: {},
     isMax: true,
     self: {
-      sideCondition: "waterpledge",
-      duration: 10
+      sideCondition: "waterpledge"
     },
     target: "adjacentFoe",
     type: "Stellar",

@@ -6040,8 +6040,4 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		isNonstandard: "Custom",
 		tier: "Illegal",
 	},
-	redpuffle: {
-		isNonstandard: "Custom",
-		tier: "Puffle",
-	},
 };

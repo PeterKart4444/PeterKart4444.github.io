@@ -2275,3 +2275,312 @@ Error: Rule "+Past" in "[Gen 9] PeterKart 192v192 PH" already exists in "[Gen 9]
     at Object.socketConnect (C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\server\users.ts:1668:15)
     at Object.onSpawn (C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\server\sockets.ts:34:11)
     at processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+Error: ENOENT: no such file or directory, stat 'C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\config\avatars\ezxmas.png'
+
+Additional information:
+  user = peterkart4444
+  room = lobby
+  pmTarget = undefined
+  message = /personalavatar peterkart55555, ezxmas.png
+
+
+Error: ENOENT: no such file or directory, stat 'C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\config\avatars\asfkmasd.png'
+
+Additional information:
+  user = peterkart4444
+  room = lobby
+  pmTarget = undefined
+  message = /personalavatar peterkart55555, asfkmasd.png
+
+
+Error: ENOENT: no such file or directory, stat 'C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\config\avatars\asfkmasd.png'
+
+Additional information:
+  user = peterkart4444
+  room = lobby
+  pmTarget = undefined
+  message = /personalavatar peterkart55555, asfkmasd.png
+
+
+Error: ENOENT: no such file or directory, stat 'C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\config\avatars\asfkmasd.png'
+
+Additional information:
+  user = peterkart4444
+  room = lobby
+  pmTarget = undefined
+  message = /personalavatar peterkart55555, asfkmasd.png
+
+
+Error: ENOENT: no such file or directory, stat 'C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\config\avatars\asfkmasd.png'
+
+Additional information:
+  user = peterkart4444
+  room = lobby
+  pmTarget = undefined
+  message = /personalavatar peterkart55555, asfkmasd.png
+
+
+Error: ENOENT: no such file or directory, stat 'C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\config\avatars\asfkmasd.png'
+
+Additional information:
+  user = peterkart4444
+  room = lobby
+  pmTarget = undefined
+  message = /personalavatar peterkart55555, asfkmasd.png
+
+
+Error: ENOENT: no such file or directory, stat 'C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\config\avatars\asfkmasd.png'
+
+Additional information:
+  user = peterkart4444
+  room = lobby
+  pmTarget = undefined
+  message = /personalavatar peterkart55555, asfkmasd.png
+
+
+Error [ERR_HTTP_HEADERS_SENT]: Cannot write headers after they are sent to the client
+    at ServerResponse.writeHead (node:_http_server:345:11)
+    at Server.finish (C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\node_modules\node-static\lib\node-static.js:117:19)
+    at C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\node_modules\node-static\lib\node-static.js:94:18
+    at C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\node_modules\node-static\lib\node-static.js:337:13
+    at streamFile (C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\node_modules\node-static\lib\node-static.js:382:13)
+    at ReadStream.<anonymous> (C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\node_modules\node-static\lib\node-static.js:375:17)
+    at ReadStream.emit (node:events:518:28)
+    at ReadStream.emit (node:domain:488:12)
+    at emitCloseNT (node:internal/streams/destroy:147:10)
+    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)
+
+Error: Rule "!Evasion Clause" did nothing because "Evasion Clause" is not in effect
+    at DexFormats.getRuleTable (C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\sim\dex-formats.ts:698:12)
+    at DexFormats.getRuleTable (C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\sim\dex-formats.ts:643:24)
+    at GlobalRoomState.get formatListText [as formatListText] (C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\server\rooms.ts:1472:34)
+    at GlobalRoomState.handleConnect (C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\server\rooms.ts:1727:80)
+    at Object.socketConnect (C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\server\users.ts:1668:15)
+    at Object.onSpawn (C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\server\sockets.ts:34:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+Error: Rule "!Evasion Clause" did nothing because "Evasion Clause" is not in effect
+    at DexFormats.getRuleTable (C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\sim\dex-formats.ts:698:12)
+    at DexFormats.getRuleTable (C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\sim\dex-formats.ts:643:24)
+    at GlobalRoomState.get formatListText [as formatListText] (C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\server\rooms.ts:1472:34)
+    at GlobalRoomState.handleConnect (C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\server\rooms.ts:1727:80)
+    at Object.socketConnect (C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\server\users.ts:1668:15)
+    at Object.onSpawn (C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\server\sockets.ts:34:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+Error: Rule "!Evasion Clause" did nothing because "Evasion Clause" is not in effect
+    at DexFormats.getRuleTable (C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\sim\dex-formats.ts:698:12)
+    at DexFormats.getRuleTable (C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\sim\dex-formats.ts:643:24)
+    at GlobalRoomState.get formatListText [as formatListText] (C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\server\rooms.ts:1472:34)
+    at GlobalRoomState.handleConnect (C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\server\rooms.ts:1727:80)
+    at Object.socketConnect (C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\server\users.ts:1668:15)
+    at Object.onSpawn (C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\server\sockets.ts:34:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+Error: Request timeout
+    at ClientRequest.<anonymous> (C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\lib\net.ts:123:20)
+    at Object.onceWrapper (node:events:632:28)
+    at ClientRequest.emit (node:events:518:28)
+    at ClientRequest.emit (node:domain:488:12)
+    at TLSSocket.emitRequestTimeout (node:_http_client:845:9)
+    at Object.onceWrapper (node:events:632:28)
+    at TLSSocket.emit (node:events:530:35)
+    at TLSSocket.emit (node:domain:488:12)
+    at TLSSocket.Socket._onTimeout (node:net:589:8)
+    at listOnTimeout (node:internal/timers:573:17)
+
+Error: Request timeout
+    at ClientRequest.<anonymous> (C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\lib\net.ts:123:20)
+    at Object.onceWrapper (node:events:632:28)
+    at ClientRequest.emit (node:events:518:28)
+    at ClientRequest.emit (node:domain:488:12)
+    at TLSSocket.emitRequestTimeout (node:_http_client:845:9)
+    at Object.onceWrapper (node:events:632:28)
+    at TLSSocket.emit (node:events:530:35)
+    at TLSSocket.emit (node:domain:488:12)
+    at TLSSocket.Socket._onTimeout (node:net:589:8)
+    at listOnTimeout (node:internal/timers:573:17)
+
+Error: Request timeout
+    at ClientRequest.<anonymous> (C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\lib\net.ts:123:20)
+    at Object.onceWrapper (node:events:632:28)
+    at ClientRequest.emit (node:events:518:28)
+    at ClientRequest.emit (node:domain:488:12)
+    at TLSSocket.emitRequestTimeout (node:_http_client:845:9)
+    at Object.onceWrapper (node:events:632:28)
+    at TLSSocket.emit (node:events:530:35)
+    at TLSSocket.emit (node:domain:488:12)
+    at TLSSocket.Socket._onTimeout (node:net:589:8)
+    at listOnTimeout (node:internal/timers:573:17)
+
+Error: Request timeout
+    at ClientRequest.<anonymous> (C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\lib\net.ts:123:20)
+    at Object.onceWrapper (node:events:632:28)
+    at ClientRequest.emit (node:events:518:28)
+    at ClientRequest.emit (node:domain:488:12)
+    at TLSSocket.emitRequestTimeout (node:_http_client:845:9)
+    at Object.onceWrapper (node:events:632:28)
+    at TLSSocket.emit (node:events:530:35)
+    at TLSSocket.emit (node:domain:488:12)
+    at TLSSocket.Socket._onTimeout (node:net:589:8)
+    at listOnTimeout (node:internal/timers:573:17)
+
+Error: Request timeout
+    at ClientRequest.<anonymous> (C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\lib\net.ts:123:20)
+    at Object.onceWrapper (node:events:632:28)
+    at ClientRequest.emit (node:events:518:28)
+    at ClientRequest.emit (node:domain:488:12)
+    at TLSSocket.emitRequestTimeout (node:_http_client:845:9)
+    at Object.onceWrapper (node:events:632:28)
+    at TLSSocket.emit (node:events:530:35)
+    at TLSSocket.emit (node:domain:488:12)
+    at TLSSocket.Socket._onTimeout (node:net:589:8)
+    at listOnTimeout (node:internal/timers:573:17)
+
+Error: Request timeout
+    at ClientRequest.<anonymous> (C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\lib\net.ts:123:20)
+    at Object.onceWrapper (node:events:632:28)
+    at ClientRequest.emit (node:events:518:28)
+    at ClientRequest.emit (node:domain:488:12)
+    at TLSSocket.emitRequestTimeout (node:_http_client:845:9)
+    at Object.onceWrapper (node:events:632:28)
+    at TLSSocket.emit (node:events:530:35)
+    at TLSSocket.emit (node:domain:488:12)
+    at TLSSocket.Socket._onTimeout (node:net:589:8)
+    at listOnTimeout (node:internal/timers:573:17)
+
+Error: bind EADDRINUSE 0.0.0.0:8000
+    at listenOnPrimaryHandle (node:net:1969:18)
+    at shared (node:internal/cluster/child:157:3)
+    at Worker.<anonymous> (node:internal/cluster/child:110:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:530:35)
+    at process.emit (node:domain:488:12)
+    at emit (node:internal/child_process:951:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+
+Error: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (node:internal/child_process:905:26)
+    at StreamProcessWrapper.destroy (C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\lib\process-manager.ts:320:16)
+    at StreamProcessWrapper.release (C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\lib\process-manager.ts:306:14)
+    at StreamProcessManager.releaseCrashed (C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\lib\process-manager.ts:455:16)
+    at ChildProcess.<anonymous> (C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\lib\process-manager.ts:512:47)
+    at ChildProcess.emit (node:events:518:28)
+    at ChildProcess.emit (node:domain:488:12)
+    at finish (node:internal/child_process:935:14)
+    at processTicksAndRejections (node:internal/process/task_queues:77:11)
+
+Error: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (node:internal/child_process:905:26)
+    at QueryProcessWrapper.destroy (C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\lib\process-manager.ts:203:16)
+    at QueryProcessWrapper.release (C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\lib\process-manager.ts:189:9)
+    at QueryProcessManager.releaseCrashed (C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\lib\process-manager.ts:455:16)
+    at ChildProcess.<anonymous> (C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\lib\process-manager.ts:512:47)
+    at ChildProcess.emit (node:events:518:28)
+    at ChildProcess.emit (node:domain:488:12)
+    at finish (node:internal/child_process:935:14)
+    at processTicksAndRejections (node:internal/process/task_queues:77:11)
+
+Error: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (node:internal/child_process:905:26)
+    at QueryProcessWrapper.destroy (C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\lib\process-manager.ts:203:16)
+    at QueryProcessWrapper.release (C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\lib\process-manager.ts:189:9)
+    at QueryProcessManager.releaseCrashed (C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\lib\process-manager.ts:455:16)
+    at ChildProcess.<anonymous> (C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\lib\process-manager.ts:512:47)
+    at ChildProcess.emit (node:events:518:28)
+    at ChildProcess.emit (node:domain:488:12)
+    at finish (node:internal/child_process:935:14)
+    at processTicksAndRejections (node:internal/process/task_queues:77:11)
+
+TypeError: Cannot read properties of null (reading 'then')
+    at RawProcessManager.releaseCrashed (C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\lib\process-manager.ts:455:24)
+    at Worker.<anonymous> (C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\lib\process-manager.ts:512:47)
+    at Worker.emit (node:events:518:28)
+    at Worker.emit (node:domain:488:12)
+    at ChildProcess.<anonymous> (node:internal/cluster/primary:209:12)
+    at Object.onceWrapper (node:events:632:28)
+    at ChildProcess.emit (node:events:518:28)
+    at ChildProcess.emit (node:domain:488:12)
+    at finish (node:internal/child_process:935:14)
+    at processTicksAndRejections (node:internal/process/task_queues:77:11)
+
+Error: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (node:internal/child_process:905:26)
+    at QueryProcessWrapper.destroy (C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\lib\process-manager.ts:203:16)
+    at QueryProcessWrapper.release (C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\lib\process-manager.ts:189:9)
+    at SQLDatabaseManager.releaseCrashed (C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\lib\process-manager.ts:455:16)
+    at ChildProcess.<anonymous> (C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\lib\process-manager.ts:512:47)
+    at ChildProcess.emit (node:events:518:28)
+    at ChildProcess.emit (node:domain:488:12)
+    at finish (node:internal/child_process:935:14)
+    at processTicksAndRejections (node:internal/process/task_queues:77:11)
+
+Error: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (node:internal/child_process:905:26)
+    at QueryProcessWrapper.destroy (C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\lib\process-manager.ts:203:16)
+    at QueryProcessWrapper.release (C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\lib\process-manager.ts:189:9)
+    at QueryProcessManager.releaseCrashed (C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\lib\process-manager.ts:455:16)
+    at ChildProcess.<anonymous> (C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\lib\process-manager.ts:512:47)
+    at ChildProcess.emit (node:events:518:28)
+    at ChildProcess.emit (node:domain:488:12)
+    at finish (node:internal/child_process:935:14)
+    at processTicksAndRejections (node:internal/process/task_queues:77:11)
+
+Error: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (node:internal/child_process:905:26)
+    at QueryProcessWrapper.destroy (C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\lib\process-manager.ts:203:16)
+    at QueryProcessWrapper.release (C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\lib\process-manager.ts:189:9)
+    at QueryProcessManager.releaseCrashed (C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\lib\process-manager.ts:455:16)
+    at ChildProcess.<anonymous> (C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\lib\process-manager.ts:512:47)
+    at ChildProcess.emit (node:events:518:28)
+    at ChildProcess.emit (node:domain:488:12)
+    at finish (node:internal/child_process:935:14)
+    at processTicksAndRejections (node:internal/process/task_queues:77:11)
+
+Error: IPC channel is already disconnected
+    at ChildProcess.target.disconnect (node:internal/child_process:905:26)
+    at QueryProcessWrapper.destroy (C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\lib\process-manager.ts:203:16)
+    at QueryProcessWrapper.release (C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\lib\process-manager.ts:189:9)
+    at QueryProcessManager.releaseCrashed (C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\lib\process-manager.ts:455:16)
+    at ChildProcess.<anonymous> (C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\lib\process-manager.ts:512:47)
+    at ChildProcess.emit (node:events:518:28)
+    at ChildProcess.emit (node:domain:488:12)
+    at finish (node:internal/child_process:935:14)
+    at processTicksAndRejections (node:internal/process/task_queues:77:11)
+
+Error: Request timeout
+    at ClientRequest.<anonymous> (C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\lib\net.ts:123:20)
+    at Object.onceWrapper (node:events:632:28)
+    at ClientRequest.emit (node:events:518:28)
+    at ClientRequest.emit (node:domain:488:12)
+    at TLSSocket.emitRequestTimeout (node:_http_client:845:9)
+    at Object.onceWrapper (node:events:632:28)
+    at TLSSocket.emit (node:events:530:35)
+    at TLSSocket.emit (node:domain:488:12)
+    at TLSSocket.Socket._onTimeout (node:net:589:8)
+    at listOnTimeout (node:internal/timers:573:17)
+
+Error: Request timeout
+    at ClientRequest.<anonymous> (C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\lib\net.ts:123:20)
+    at Object.onceWrapper (node:events:632:28)
+    at ClientRequest.emit (node:events:518:28)
+    at ClientRequest.emit (node:domain:488:12)
+    at TLSSocket.emitRequestTimeout (node:_http_client:845:9)
+    at Object.onceWrapper (node:events:632:28)
+    at TLSSocket.emit (node:events:530:35)
+    at TLSSocket.emit (node:domain:488:12)
+    at TLSSocket.Socket._onTimeout (node:net:589:8)
+    at listOnTimeout (node:internal/timers:573:17)
+
+Error [ERR_HTTP_HEADERS_SENT]: Cannot write headers after they are sent to the client
+    at ServerResponse.writeHead (node:_http_server:345:11)
+    at Server.finish (C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\node_modules\node-static\lib\node-static.js:117:19)
+    at C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\node_modules\node-static\lib\node-static.js:94:18
+    at C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\node_modules\node-static\lib\node-static.js:337:13
+    at streamFile (C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\node_modules\node-static\lib\node-static.js:382:13)
+    at ReadStream.<anonymous> (C:\Users\peter\OneDrive\Desktop\Program Files (x69)\showdown\node_modules\node-static\lib\node-static.js:375:17)
+    at ReadStream.emit (node:events:518:28)
+    at ReadStream.emit (node:domain:488:12)
+    at emitCloseNT (node:internal/streams/destroy:147:10)
+    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)
