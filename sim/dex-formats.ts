@@ -238,8 +238,8 @@ export class RuleTable extends Map<string, string> {
 		if (this.maxTeamSize > 1000) {
 			throw new Error(`Max team size ${this.maxTeamSize}${this.blame('maxteamsize')} is unsupported (we only support up to 1000).`);
 		}
-		if (this.maxLevel > 999999) {
-			throw new Error(`Max level ${this.maxLevel}${this.blame('maxlevel')} is unsupported (we only support up to 999999)`);
+		if (this.maxLevel > 999999999) {
+			throw new Error(`Max level ${this.maxLevel}${this.blame('maxlevel')} is unsupported (we only support up to 999999999)`);
 		}
 		if (this.maxMoveCount > 96) {
 			// A limit is imposed here to prevent too much engine strain or

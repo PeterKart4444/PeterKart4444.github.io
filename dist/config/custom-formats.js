@@ -537,6 +537,15 @@ const Formats = [
     section: "Goofy Formats"
   },
   {
+    name: "[Gen 9] Insane Custom Game",
+    mod: "gen9",
+    searchShow: true,
+    debug: true,
+    battle: { trunc: Math.trunc },
+    // no restrictions, for serious (other than team preview)
+    ruleset: ["Team Preview", "Cancel Mod", "Max Team Size = 24", "Max Move Count = 24", "Max Level = 999999999", "Default Level = 100"]
+  },
+  {
     name: "[Gen 9] Theory of Everything",
     desc: `A mashup of many OMs (by sheeplol)`,
     ruleset: ["Team Preview", "HP Percentage Mod", "Cancel Mod", "Broken Record Mod", "Bonus Type Mod", "Category Swap Mod", "Flipped Mod", "Force of the Fallen Mod", "Godly Gift Mod", "Inverse Mod", "Protean Palace Mod", "Revelationmons Mod", "Volt-Turn Mayhem Mod"],
